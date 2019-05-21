@@ -1,0 +1,9 @@
+Dear editor,
+I am Jianghong Yao, from Nankai University.
+We want to delete one authorship(Zijian, Lan) of one NJC paper:
+Synergistic effects of Zn and Pd species in TiO2 towards efficient photo-reduction of CO2 into CH4
+
+New J. Chem., 2018,42, 483-488 (DOI: 10.1039/C7NJ03305B)
+
+Limei Guo contribute all the data to this paper.
+Zijian Lan did not contribute any to this paper. So we want to delete his authorship.
